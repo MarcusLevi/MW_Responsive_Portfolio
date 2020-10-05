@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Bangers", cursive;
+  font-size: large;
+  font-weight: bolder;
+  background-image: url("./bio_backgroud_clouds.jpg");
+}
+
+.col-lg-9 {
+  background: white;
+  border: solid orange;
+}
